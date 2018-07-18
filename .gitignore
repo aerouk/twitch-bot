@@ -1,0 +1,12 @@
+.project
+.metadata
+bin/
+tmp/
+*.tmp
+*.properties
+.classpath
+.settings/
+target/
+
+*.iml
+.idea/
